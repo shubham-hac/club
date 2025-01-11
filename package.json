@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "http://your-username.github.io/your-repo-name",
+  "homepage": "http://shubham-hac.github.io/club",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
