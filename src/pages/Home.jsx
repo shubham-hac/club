@@ -2,7 +2,7 @@ function Home() {
   return (
     <div className="w-full">
       <div className="text-center py-12 bg-gradient-to-r from-blue-500 to-blue-700 text-white">
-        <h1 className="text-4xl md:text-5xl font-bold mb-4 animate-fade-in">Welcome to Rotaract Club</h1>
+        <h1 className="text-4xl md:text-5xl font-bold mb-4 animate-fade-in">Welcome to Your Club</h1>
         <p className="text-xl text-gray-100">Empowering Youth Through Service and Leadership</p>
       </div>
       

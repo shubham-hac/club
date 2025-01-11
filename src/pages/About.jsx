@@ -1,14 +1,14 @@
 function About() {
   return (
     <div className="container mx-auto px-4 py-8">
-      <h1 className="text-4xl font-bold mb-8 text-center">About Rotaract Club</h1>
+      <h1 className="text-4xl font-bold mb-8 text-center">About Your Club</h1>
       
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-12">
         <div className="space-y-6">
           <div className="bg-white p-6 rounded-lg shadow-lg">
             <h2 className="text-2xl font-bold mb-4">Our Mission</h2>
             <p className="text-gray-700">
-              Rotaract Club is a global organization that brings together people ages 18-30 to develop leadership skills,
+              Your Club is a global organization that brings together people ages 18-30 to develop leadership skills,
               serve their communities, and build international understanding through service projects and collaboration.
             </p>
           </div>

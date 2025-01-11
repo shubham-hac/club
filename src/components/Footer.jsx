@@ -4,7 +4,7 @@ function Footer() {
       <div className="container mx-auto px-4">
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-8">
           <div className="text-center sm:text-left">
-            <h3 className="text-xl font-bold mb-4">Rotaract Club</h3>
+            <h3 className="text-xl font-bold mb-4">Your Club</h3>
             <p>Empowering youth through service and leadership</p>
           </div>
           <div className="text-center sm:text-left">
@@ -20,13 +20,13 @@ function Footer() {
           <div className="text-center sm:text-left">
             <h3 className="text-xl font-bold mb-4">Connect With Us</h3>
             <div className="space-y-2">
-              <p>Email: info@rotaractclub.org</p>
+              <p>Email: info@yourclub.org</p>
               <p>Phone: +91 1234567890</p>
             </div>
           </div>
         </div>
         <div className="text-center mt-8 pt-8 border-t border-gray-700">
-          <p>&copy; {new Date().getFullYear()} Rotaract Club. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} Shubham Raut. All rights reserved.</p>
         </div>
       </div>
     </footer>

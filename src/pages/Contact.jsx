@@ -14,12 +14,12 @@ function Contact() {
           <div className="space-y-4">
             <p>
               <strong>Address:</strong><br />
-              123 Rotaract Street<br />
+              123 Your Street<br />
               Palghar, Maharashtra 401404
             </p>
             <p>
               <strong>Email:</strong><br />
-              info@rotaractclub.org
+              info@Yourclub.org
             </p>
             <p>
               <strong>Phone:</strong><br />
@@ -39,7 +39,7 @@ function Contact() {
             />
             <Marker position={position}>
               <Popup>
-                Rotaract Club
+                Your Club
               </Popup>
             </Marker>
           </MapContainer>

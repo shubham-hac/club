@@ -8,7 +8,7 @@ function Navbar() {
     <nav className="bg-blue-600 text-white">
       <div className="w-full px-4">
         <div className="flex justify-between items-center py-4">
-          <Link to="/" className="text-2xl font-bold hover:scale-105 transition-transform">Rotaract Club</Link>
+          <Link to="/" className="text-2xl font-bold hover:scale-105 transition-transform">Your Club</Link>
           
           <button 
             className="md:hidden"
